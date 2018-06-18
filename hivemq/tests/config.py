@@ -1,0 +1,4 @@
+PACKAGE_NAME = 'hivemq'
+SERVICE_NAME = 'hivemq'
+DEFAULT_TASK_COUNT = 1
+
